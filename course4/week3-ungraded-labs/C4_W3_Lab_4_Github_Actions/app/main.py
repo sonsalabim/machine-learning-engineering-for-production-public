@@ -1,5 +1,6 @@
 import pickle
 import numpy as np
+import scikit-learn=0.24.2
 from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel, conlist
